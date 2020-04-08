@@ -28,7 +28,7 @@ I chose this website because I love the 90s aesthetic that SpaceJam embodies. I 
 
 3 = Major Usability Problem: Needs to be given high priority to be fixed
 
-### Visibility of System Status
+### 1. Visibility of System Status
 
 #### Craigslist
 - (1) Craiglsist has no way of keeping visitors informed about the status of the process, when you post something to sell, there is no uploading page where you can see the progress
@@ -39,7 +39,7 @@ I chose this website because I love the 90s aesthetic that SpaceJam embodies. I 
 - (1)When jumping in between screens, like “stellar souvenirs” or Jam, there is no screen that shows that the website is  loading
 - This is troublesome, because I was caught countless times clicking the button because I did not know that the screen was still loading
 
-### Match Between System and the Real World
+### 2. Match Between System and the Real World
 
 #### Craigslist
 - (3) A main downfall of Craislist is that there is no symbol communications with the real world, the only way to navigate through this page is to read. The only thing that stands out besides the words is another word--marked in orange; this is indicative of a post with a picture or a new post
@@ -52,7 +52,7 @@ I chose this website because I love the 90s aesthetic that SpaceJam embodies. I 
 - (3)There are no symbols or very few that are indicative of anything 
 - (3)Where there is an archive, there are no camera or photo icons to symbolize this is where you will fine “photos from the film”
 
-### User Control and Freedom
+### 3. User Control and Freedom
 
 #### Craigslist
 - (2)When clicking on a specific tab like “real estate” there is no easy way to exit and choose another forum, it would be useful if each tab was a window so that you can exit out and enter another one easily. Would be convenient if the other sections were available on the tab to the left
@@ -61,7 +61,7 @@ I chose this website because I love the 90s aesthetic that SpaceJam embodies. I 
 #### SpaceJam
 - (3)There is no way to exit out of anything, the only way to do so is to hit the back arrow. Like I suggested with Craigslist, there should be a minimize screen for each tab so it’s easier to explore the other categories
 
-### Consistency and Standards 
+### 4. Consistency and Standards 
 
 #### Craigslist
 - (1)The account page is not on upper right hand side like most websites are and there is no “sign in” option like most websites thus making it less intuitive to the user; because it does not have the standard format like most websites, it makes it a little difficult to navigate through this website if you are a first time user
@@ -71,7 +71,7 @@ I chose this website because I love the 90s aesthetic that SpaceJam embodies. I 
 - (3)This isn’t your traditional website, when you click on “screensavers” it sends you to a page where nothing is standard about it except the tab bar on the left which gives you easy access to the other categories of the website
 - (3)Different subcategories within the categories are separated within an image rather than by tabs, not as intuitive to the user today, it may just look like a picture and not something you can click on to navigate through the website
 
-### Error Prevention
+### 5. Error Prevention
 
 #### Craigslist
 - (0)When trying to make your own post, there is a lot of message pop ups that tell you if information is incorrect of missing and thus, stopping you from moving onto the next step
@@ -80,7 +80,7 @@ I chose this website because I love the 90s aesthetic that SpaceJam embodies. I 
 #### SpaceJam
 - (1)This website doesn’t do a good job when telling you if you are going to be redirected to another website, there should be an error message or some sort of pop up telling you that you cannot find the specific information in the website and thus it will transfer you
 
-### Recognition rather than recall
+### 6. Recognition rather than recall
 
 #### Craigslist
 - (3)This website doesn’t have the option to view most recent searches
@@ -93,7 +93,7 @@ I chose this website because I love the 90s aesthetic that SpaceJam embodies. I 
 - (3)There is no way to see which music you downloaded already 
 - (3) It’s hard to keep track of what you’ve explored and what you haven’t already, it would be convenient if explored tabs were marked in a different color
 
-### Flexibility and efficiency of Use
+### 7. Flexibility and efficiency of Use
 
 #### Craigslist
 - (3)When clicking on a certain forum from the community tab, like “Rants and Raves” there is no tab on the left to indicate what date you want to see posts from or from what area/location
@@ -101,7 +101,7 @@ I chose this website because I love the 90s aesthetic that SpaceJam embodies. I 
 #### SpaceJam
 - (2)This website has no efficiencies, there is no way to categorize or limit your search, the only option available is the 13 categories offered on the left tab marked by planets. However once you enter a category it’s hard to go through the other categories without having to go back to the main page and click on the planet again
 
-### Aesthetic and minimalist design
+### 8. Aesthetic and minimalist design
 
 #### Craigslist
 - (0)No space is wasted on Craigslist's website; the site does an amazing job on keeping its main page simple and straight to the point
@@ -112,7 +112,7 @@ I chose this website because I love the 90s aesthetic that SpaceJam embodies. I 
 - (3)The background for each page changes and is very jarring
 - (3)The typography doesn’t match the other typography within the same page
 
-### Help users recognize, diagnose, and recover from errors
+### 9. Help users recognize, diagnose, and recover from errors
 
 #### Craigslist
 - (2)When typing in the search bar, an incorrect word, it gives you the notification that nothing is found for that search, however it doesn’t give you helpful information besides, “all words must match” which doesn’t make much sense to me
@@ -120,7 +120,7 @@ I chose this website because I love the 90s aesthetic that SpaceJam embodies. I 
 #### SpaceJam
 - (2)When playing the games available on this website, there are some games that don’t work; however, there is no error screen that tells you that it’s broken or how to fix to or what to do instead
 
-### Help and documentation
+### 10. Help and documentation
 
 #### Craigslist
 - (2)The help tab was easy to find if you can read well, however there are no easy way to single it out since it’s the same font and size as everything else 
