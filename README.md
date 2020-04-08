@@ -7,11 +7,18 @@ https://orangecounty.craigslist.org/
 I chose this website because it’s so popular yet its website is so dull, outdated and tacky looking. I thought it would be interesting to see the ways in which I could improve such a popular website that I myself frequently visit. I was mostly inspired to redesign this website because it is so relevant to my life as well as my family. We have all sold a few items off this website. Craigslist's UX design has not changed for years from when it started. A common saying that is associated with this website is “why fix something if it’s not broken”, however, I feel like there is so much more that Craigslist can improve on to improve its user efficiency. 
 
 ![](https://i.gyazo.com/68dd81a422b352cd814e7be633e42da4.png)
+![](https://i.gyazo.com/88b4ce053f7fbbfecca7d7d57936d8f9.png)
+![](https://i.gyazo.com/c11cf650cc2813cf997f33ca750b4f1d.png)
 
 #### Website 1: SpaceJam
 https://spacejam.com/jam.htm
 
 I chose this website because I love the 90s aesthetic that SpaceJam embodies. I thought I would have a lot of fun working with a website that has a graphic design that I already enjoy. Also, with a SpaceJam remake coming out, it would be cool to see how I could improve this website so that it appeals to the vast majority. My initial thoughts on this website is that is very outdated for today’s graphic trends, however, “Space Jam” was made in the 90s so I thought the design was done purposefully to mimic the feel of 90s websites, however, I think that you can still maintain the aesthetic and stay true the time of the show while also maintaining an efficient user experience. I think it would be a lot of fun to redesign this website.
+
+![](https://i.gyazo.com/37a40f5b6fa12fed6313268b34bc4b28.png)
+![](https://i.gyazo.com/ea5b94af32608dcd764b0be1d9caca88.png)
+![](https://i.gyazo.com/fe091c64016554ebb2d12cd85dfef2b7.png)
+
 
 ## Evaluation
 #### Heuristic Evaluation Scale
