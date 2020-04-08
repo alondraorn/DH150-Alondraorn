@@ -129,6 +129,6 @@ I chose this website because I love the 90s aesthetic that SpaceJam embodies. I 
 (3)The titles of each subheader could be organized and named better. For instance, what does “classified postings mean." These titles aren’t really questions either.
 
 #### SpaceJam
-- (3)There is no help or documentation page, or if there is it is extremely hard to find
+- (3)There is no help or documentation page, or if there is. it is extremely hard to find. This makes it extremely difficult for the user to understand what this page is or how to resolve issues they have with the website.
 
 
